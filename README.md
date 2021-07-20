@@ -23,7 +23,7 @@ In this project, loan data for a peer-to-peer lending platform is obtained and a
 * Expected Questions.pdf
 * Report.pdf
 
-**Notebooks and Visualizations**
+**Notebooks and Visualizations** (main directory)
 * Exploratory Data Analysis.ipynb - First step in the project; exploring and visualizing data
 * Data Profile Report.html - Variable statistics, distributions, and relationships
 * Predictive Modeling.ipynb - Last step in the project; fitting various predictive models and applying them to the business problem
