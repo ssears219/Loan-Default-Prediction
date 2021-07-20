@@ -14,16 +14,16 @@ In this project, loan data for a peer-to-peer lending platform is obtained and a
 
 ## Contents
 
-Data  
+**Data**  
 * Dataset web address.txt - Web address of dataset (too large to store in Github)
 * LCDataDictionary - Variable descriptions
 
-Papers  
+**Papers**  
 * Proposal.pdf
 * Expected Questions.pdf
 * Report.pdf
-
- 
+  
+  
 * Exploratory Data Analysis.ipynb - First step in the project; exploring and visualizing data
 * Data Profile Report.html - Variable statistics, distributions, and relationships
 * Predictive Modeling.ipynb - Last step in the project; fitting various predictive models and applying them to the business problem
