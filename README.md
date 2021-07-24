@@ -28,8 +28,7 @@ In this project, loan data for a peer-to-peer lending platform is obtained and a
 * Data Profile Report.html - Variable statistics, distributions, and relationships
 * Predictive Modeling.ipynb - Last step in the project; fitting various predictive models and applying them to the business problem
 * Excel Charts.xlsx - Visualizations used in the Report
-
-Presentation Deck - In progress
+* Presentation Deck.pdf - Recording of presentation can be found [here](https://bellevueuniversity-my.sharepoint.com/:v:/g/personal/spsears_my365_bellevue_edu/Eb4jAn520a5Dhyfu9zn8LyEBLmoHBXdpDId3KPnHmBJA8Q?e=pTsUXp)
 
 ## Tools
 * Python
